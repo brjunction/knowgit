@@ -1,1 +1,2 @@
-# knowgit
+# This Repo is used just for learning purpose.
+It is for clarifying the concepts of my own.
